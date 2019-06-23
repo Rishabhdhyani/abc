@@ -1,1 +1,1 @@
-# project is related to web D which are using django as platfotm.
+# project is related to web D which are using django as platform.
